@@ -9,3 +9,5 @@ $ docker run -d --name emqx -p 1883:1883 -p 8083:8083 -p 8883:8883 -p 8084:8084 
 2. 启动 publisher 和 subscriber  
 
 3. 发布和订阅
+
+[参考](https://www.cnblogs.com/rain1024/p/12358023.html)
